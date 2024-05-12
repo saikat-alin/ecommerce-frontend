@@ -1,0 +1,62 @@
+[
+  {
+    "name": "1000001",
+    "cc_status": "Confirm",
+    "wh_status": "Not Delivered",
+    "date": "24-Jan-2021",
+    "product": "5.5 KG",
+    "delivery_add": "H-84,Road-14,Block-B,Banani,Dhaka",
+    "contact_num": "7646788978",
+    "quantity": 1,
+    "available_quantity": 5,
+    "amount": 1500
+  },
+  {
+    "name": "1000002",
+    "cc_status": "Confirm",
+    "wh_status": "Not Delivered",
+    "date": "30-Dec-2021",
+    "delivery_add": "H-84,Road-14,Block-B,Banani,Dhaka",
+    "contact_num": "7646788978",
+    "product": "12 KG",
+    "quantity": 1,
+    "available_quantity": 5,
+    "amount": 2000
+  },
+  {
+    "name": "1000003",
+    "cc_status": "Confirm",
+    "wh_status": "Not Delivered",
+    "date": "20-May-2021",
+    "delivery_add": "H-84,Road-14,Block-B,Banani,Dhaka",
+    "contact_num": "7646788978",
+    "product": "25 KG",
+    "quantity": 1,
+    "available_quantity": 3,
+    "amount": 3000
+  },
+  {
+    "name": "1000004",
+    "cc_status": "Confirm",
+    "wh_status": "Not Delivered",
+    "date": "12-Jul-2021",
+    "delivery_add": "H-84,Road-14,Block-B,Banani,Dhaka",
+    "contact_num": "7646788978",
+    "product": "35 KG",
+    "quantity": 1,
+    "available_quantity": 4,
+    "amount": 6000
+  },
+  {
+    "name": "1000005",
+    "cc_status": "Confirm",
+    "wh_status": "Not Delivered",
+    "delivery_add": "H-84,Road-14,Block-B,Banani,Dhaka",
+    "contact_num": "7646788978",
+    "date": "18-Jul-2023",
+    "product": "45 KG",
+    "quantity": 1,
+    "available_quantity": 12,
+    "amount": 10000
+  }
+]
